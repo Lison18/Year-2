@@ -4,7 +4,8 @@
 
 # Code
 
-**.Py import math
+```.py
+import math
 ips = []
 
 def ipv4Machine():
@@ -25,3 +26,9 @@ def ipvyMachine2():
             for c in range(1,255):
                 for d in range(1,255):
                     ips.append(f"{a}:{b}:{c}:{d}")
+```
+
+## Proof of work
+
+
+
