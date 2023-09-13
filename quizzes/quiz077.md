@@ -1,4 +1,4 @@
-# Quiz076
+# Quiz077
 ```.py
 class parity_check:
     def __init__(self, data) -> None:
